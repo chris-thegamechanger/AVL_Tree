@@ -1,3 +1,4 @@
+#From Nguyen Duy with Love
 class node:
     def __init__(self, value=None):
         self.value = value
